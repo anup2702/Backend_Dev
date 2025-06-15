@@ -1,0 +1,19 @@
+Rest API ->Json
+
+Get /users - html
+Get /api/users list all user 
+Get /users1 - user with id 1
+
+// Dynammic Path Para..
+:id -> variable
+
+Post /users - create new user
+
+Patch /users/1 - edit
+
+delete /useres/1  - delete user 
+
+
+//  using mokaro to generate data
+
+completed
